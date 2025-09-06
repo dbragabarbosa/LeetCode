@@ -13,8 +13,8 @@ import Foundation
 Given a binary array nums, return the maximum number of consecutive 1's in the array.
 */
 
-class Solution 
-{   
+class SolutionMaxConsecutiveOnes
+{
     func findMaxConsecutiveOnes(_ nums: [Int]) -> Int 
     {
         var atualConsecutive: Int = 0
