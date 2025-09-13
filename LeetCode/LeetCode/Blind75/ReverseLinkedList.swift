@@ -17,7 +17,7 @@
     // Step 5: Change the next value  of the current node to the previous variable
     // Step 6: Update the previous variable now to the current node
     // Step 7: Update current node to the next value stored in step 4
-// Step 8: Return the previous variable
+// Step 8: Return the previous variable, which is the new head
 // O(n) time
 // O(1) space
 class Solution 
